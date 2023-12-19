@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651314316 source:c:\hp\ch-2\excercise\print to the star pattern in c\main.c
+	<stdio.h>
+	<stdlib.h>
+

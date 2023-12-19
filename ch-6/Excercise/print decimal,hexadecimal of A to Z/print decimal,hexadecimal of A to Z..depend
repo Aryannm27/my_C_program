@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651472600 source:c:\hp\ch-6\excercise\print decimal,hexadecimal of a to z.\main.c
+	<stdio.h>
+	<stdlib.h>
+

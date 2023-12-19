@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652435482 source:c:\hp\ch-21\copy  string using string function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

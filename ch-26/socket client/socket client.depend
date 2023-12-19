@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652868377 source:c:\hp\ch-26\socket client\main.c
+	<winsock2.h>
+	<stdio.h>
+
+1652869407 source:c:\users\hardik\desktop\c language\hardik_c\ch-26\socket client\main.c
+	<winsock2.h>
+	<stdio.h>
+

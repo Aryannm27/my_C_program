@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650708370 source:c:\hp\ch-6\excercise\print char a,b and compare if equal print true or false\main.c
+	<stdio.h>
+	<stdbool.h>
+

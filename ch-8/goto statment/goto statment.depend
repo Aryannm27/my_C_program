@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1650456061 source:c:\hp\ch-8\goto statment\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1650455323 c:\hp\ch-8\goto statment\test.h
+
+1650453522 source:c:\hp\ch-8\goto statment\test1.c
+	"test1.h"
+
+1650453593 c:\hp\ch-8\goto statment\test1.h
+
+1650455423 source:c:\hp\ch-8\goto statment\test.c
+	"TEST.h"
+

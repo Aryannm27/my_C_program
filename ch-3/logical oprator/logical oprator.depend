@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650025166 source:c:\hp\ch-3\logical oprator\main.c
+	<stdio.h>
+	<stdbool.h>
+

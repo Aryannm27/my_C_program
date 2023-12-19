@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650707173 source:c:\hp\ch-6\excercise\take char input from user and prin it\main.c
+	<stdio.h>
+	<stdlib.h>
+

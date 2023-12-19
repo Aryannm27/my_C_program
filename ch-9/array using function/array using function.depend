@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650608670 source:c:\hp\ch-9\array using function\main.c
+	<stdio.h>
+	<stdlib.h>
+

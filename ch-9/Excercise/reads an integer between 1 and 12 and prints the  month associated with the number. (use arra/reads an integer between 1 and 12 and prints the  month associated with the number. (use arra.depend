@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651039551 source:c:\hp\ch-9\excercise\ reads an integer between 1 and 12 and prints the  month associated with the number. (use arra\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1662960111 source:c:\users\hardik\desktop\c language\hardik_c\ch-9\excercise\reads an integer between 1 and 12 and prints the  month associated with the number. (use arra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

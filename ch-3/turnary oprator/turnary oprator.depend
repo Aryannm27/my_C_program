@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650437718 source:c:\hp\ch-3\turnary oprator\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651303476 source:c:\hp\ch-9\excercise\enter 20 numbers and find the maximum with position\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651469736 source:c:\hp\ch-4\excercise\perform bitwise and ,or,not and xor.\main.c
+	<stdio.h>
+	<stdlib.h>
+

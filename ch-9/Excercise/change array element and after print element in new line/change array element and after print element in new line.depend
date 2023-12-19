@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651473715 source:c:\hp\ch-9\excercise\change array element and after print element in new line\main.c
+	<stdio.h>
+	<stdlib.h>
+

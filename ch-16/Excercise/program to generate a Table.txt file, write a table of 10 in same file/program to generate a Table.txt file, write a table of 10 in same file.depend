@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1652507834 source:c:\hp\ch-16\excercise\program to generate a table.txt file, write a table of 10 in same file\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1652508296 source:c:\users\hardik\desktop\c language\hardik_c\ch-16\excercise\program to generate a table.txt file, write a table of 10 in same file\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

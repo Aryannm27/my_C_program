@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651046811 source:c:\hp\ch-10\calculate avg marks of maths of some student\main.c
+	<stdio.h>
+	<stdlib.h>
+

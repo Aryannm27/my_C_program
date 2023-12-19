@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651312959 source:c:\hp\ch-1\excercise\print collage name and adress\main.c
+	<stdio.h>
+	<stdlib.h>
+

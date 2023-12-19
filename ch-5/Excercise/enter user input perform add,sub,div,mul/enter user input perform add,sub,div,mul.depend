@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650702258 source:c:\hp\ch-5\excercise\enter user input perform add,sub,div,mul\main.c
+	<stdio.h>
+	<stdlib.h>
+

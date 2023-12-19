@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652099768 source:c:\hp\ch-17\excercise\return sum and mul using function pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+

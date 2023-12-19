@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650444672 source:c:\hp\ch-8\switch case example\main.c
+	<stdio.h>
+	<stdlib.h>
+

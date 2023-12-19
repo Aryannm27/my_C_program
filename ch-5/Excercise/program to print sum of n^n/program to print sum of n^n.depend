@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651472121 source:c:\hp\ch-5\excercise\program to print sum of n^n\main.c
+	<stdio.h>
+	<math.h>
+

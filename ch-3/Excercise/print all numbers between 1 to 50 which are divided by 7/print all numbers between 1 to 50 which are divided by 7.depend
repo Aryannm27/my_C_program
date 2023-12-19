@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650629847 source:c:\hp\ch-3\excercise\print all numbers between 1 to 50 which are divided by 7\main.c
+	<stdio.h>
+	<stdlib.h>
+

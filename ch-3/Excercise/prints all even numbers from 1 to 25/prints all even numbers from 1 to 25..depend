@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1650626163 source:c:\hp\ch-3\excercise\prints all even numbers from 1 to 25.\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1650626163 source:c:\hp\ch-3\excercise\prints all even numbers from 1 to 25\main.c
+	<stdio.h>
+	<stdlib.h>
+

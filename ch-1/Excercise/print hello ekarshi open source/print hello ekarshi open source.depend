@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650624356 source:c:\hp\ch-1\excercise\print hello ekarshi open source\main.c
+	<stdio.h>
+	<stdlib.h>
+

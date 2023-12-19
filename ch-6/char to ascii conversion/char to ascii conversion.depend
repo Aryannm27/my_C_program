@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650273767 source:c:\hp\ch-6\char to ascii conversion\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651215430 source:c:\hp\ch-13\ change a value of x from 10.5 to 255.6 use pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+

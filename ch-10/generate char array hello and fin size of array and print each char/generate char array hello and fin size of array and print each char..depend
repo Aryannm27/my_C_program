@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651474232 source:c:\hp\ch-10\generate char array hello and fin size of array and print each char.\main.c
+	<stdio.h>
+	<stdlib.h>
+

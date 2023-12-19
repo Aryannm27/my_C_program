@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650708560 source:c:\hp\ch-6\excercise\print ‘a’+1, ‘a’+1, ‘z’+1, ‘z’+1.\main.c
+	<stdio.h>
+	<stdlib.h>
+

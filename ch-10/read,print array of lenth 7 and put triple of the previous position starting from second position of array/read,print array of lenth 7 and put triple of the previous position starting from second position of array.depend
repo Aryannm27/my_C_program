@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651052635 source:c:\hp\ch-10\read,print array of lenth 7 and put triple of the previous position starting from second position of array\main.c
+	<stdio.h>
+	<stdlib.h>
+

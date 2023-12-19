@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650607795 source:c:\hp\ch-9\one dimension array\main.c
+	<stdio.h>
+	<stdlib.h>
+

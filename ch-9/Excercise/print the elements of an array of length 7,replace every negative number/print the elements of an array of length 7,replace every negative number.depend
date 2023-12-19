@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650950208 source:c:\hp\ch-9\excercise\print the elements of an array of length 7,replace every negative number\main.c
+	<stdio.h>
+	<stdlib.h>
+

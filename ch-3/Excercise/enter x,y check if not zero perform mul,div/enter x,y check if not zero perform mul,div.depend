@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651317170 source:c:\hp\ch-3\excercise\enter x,y check if not zero perform mul,div\main.c
+	<stdio.h>
+	<stdlib.h>
+

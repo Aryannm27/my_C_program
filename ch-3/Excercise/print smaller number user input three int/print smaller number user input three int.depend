@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651315329 source:c:\hp\ch-3\excercise\print smaller number user input three int\main.c
+	<stdio.h>
+	<stdlib.h>
+

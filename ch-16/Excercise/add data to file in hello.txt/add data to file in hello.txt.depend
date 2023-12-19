@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651653589 source:c:\hp\ch-16\excercise\add data to file in hello.txt\main.c
+	<stdio.h>
+	<stdlib.h>
+

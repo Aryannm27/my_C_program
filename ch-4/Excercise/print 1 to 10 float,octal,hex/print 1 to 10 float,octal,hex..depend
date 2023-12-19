@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651468798 source:c:\hp\ch-4\excercise\print 1 to 10 float,octal,hex.\main.c
+	<stdio.h>
+	<stdlib.h>
+

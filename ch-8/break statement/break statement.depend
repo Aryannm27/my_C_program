@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650448166 source:c:\hp\ch-8\break statement\main.c
+	<stdio.h>
+	<stdlib.h>
+

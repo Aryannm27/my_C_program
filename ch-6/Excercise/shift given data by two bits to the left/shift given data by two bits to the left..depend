@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650704572 source:c:\hp\ch-6\excercise\shift given data by two bits to the left.\main.c
+	<stdio.h>
+	<stdlib.h>
+

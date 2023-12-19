@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651473376 source:c:\hp\ch-9\excercise\ array a={1,2,3,4,5} and print each element in newline\main.c
+	<stdio.h>
+	<stdlib.h>
+

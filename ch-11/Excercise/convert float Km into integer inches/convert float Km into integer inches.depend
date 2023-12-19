@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651060758 source:c:\hp\ch-11\excercise\ convert float km into integer inches\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1681888375 source:c:\users\hardik\desktop\c language\hardik_c\ch-11\excercise\convert float km into integer inches\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

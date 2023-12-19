@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650625777 source:c:\hp\ch-2\excercise\size of int,float,double,long,long double\main.c
+	<stdio.h>
+	<stdlib.h>
+

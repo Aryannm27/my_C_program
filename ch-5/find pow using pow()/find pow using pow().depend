@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650021372 source:c:\hp\ch-5\find pow using pow()\main.c
+	<stdio.h>
+	<math.h>
+

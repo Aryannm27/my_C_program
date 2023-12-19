@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651053116 source:c:\hp\ch-11\excercise\ float x=5.5 convert it into integer data and print\main.c
+	<stdio.h>
+	<stdlib.h>
+

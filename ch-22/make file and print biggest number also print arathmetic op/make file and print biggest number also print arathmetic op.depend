@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652269465 source:c:\hp\ch-22\make file and print biggest number also print arathmetic op\main.c
+	<stdio.h>
+	<stdlib.h>
+

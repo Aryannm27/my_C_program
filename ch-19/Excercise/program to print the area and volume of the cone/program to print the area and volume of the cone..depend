@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652167108 source:c:\hp\ch-19\excercise\ program to print the area and volume of the cone.\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1652167343 source:c:\hp\ch-19\excercise\ program to print the area and volume of the cone\main.c
+	<stdio.h>
+	<stdlib.h>
+

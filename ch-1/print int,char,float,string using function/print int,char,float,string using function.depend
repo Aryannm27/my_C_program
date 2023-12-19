@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650261965 source:c:\hp\ch-1\print int,char,float,string using function\main.c
+	<stdio.h>
+	<stdlib.h>
+

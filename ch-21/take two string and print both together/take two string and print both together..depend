@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652248678 source:c:\hp\ch-21\take two string and print both together.\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

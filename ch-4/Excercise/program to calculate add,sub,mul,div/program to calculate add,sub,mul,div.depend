@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651468646 source:c:\hp\ch-4\excercise\program to calculate add,sub,mul,div\main.c
+	<stdio.h>
+	<stdlib.h>
+

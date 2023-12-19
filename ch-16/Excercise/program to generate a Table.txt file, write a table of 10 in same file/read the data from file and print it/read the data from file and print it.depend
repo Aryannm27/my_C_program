@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651725829 source:c:\hp\ch-16\excercise\read the data from file and print it\main.c
+	<stdio.h>
+	<stdlib.h>
+

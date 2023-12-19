@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1650260910 source:c:\hp\ch-2\assignment oprator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1660737385 source:c:\users\hardik\desktop\c language\hardik_c\ch-2\assignment oprator\main.c
+	<stdio.h>
+	<conio.h>
+

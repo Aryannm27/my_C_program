@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651465471 source:c:\hp\ch-4\excercise\find and print no. is special number or not\main.c
+	<stdio.h>
+	<stdlib.h>
+

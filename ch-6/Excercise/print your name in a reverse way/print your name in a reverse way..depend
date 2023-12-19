@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650705145 source:c:\hp\ch-6\excercise\print your name in a reverse way.\main.c
+	<stdio.h>
+	<stdlib.h>
+

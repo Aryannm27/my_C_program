@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1652349487 source:c:\hp\ch-20\excercise\take math function return sum,mul,div with header&source file\sum.c
+	"sum.h"
+
+1652349450 c:\hp\ch-20\excercise\take math function return sum,mul,div with header&source file\sum.h
+
+1652351118 source:c:\hp\ch-20\excercise\take math function return sum,mul,div with header&source file\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sum.h"
+	"mull.h"
+	"divv.h"
+
+1652349561 c:\hp\ch-20\excercise\take math function return sum,mul,div with header&source file\mul.h
+
+1652349614 source:c:\hp\ch-20\excercise\take math function return sum,mul,div with header&source file\mul.c
+	"mul.h"
+
+1652349824 c:\hp\ch-20\excercise\take math function return sum,mul,div with header&source file\mull.h
+
+1652349826 source:c:\hp\ch-20\excercise\take math function return sum,mul,div with header&source file\mull.c
+	"mull.h"
+
+1652350032 source:c:\hp\ch-20\excercise\take math function return sum,mul,div with header&source file\divv.c
+	"divv.h"
+
+1652350030 c:\hp\ch-20\excercise\take math function return sum,mul,div with header&source file\divv.h
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650707011 source:c:\hp\ch-5\excercise\print sum of square 1 to 6\main.c
+	<stdio.h>
+	<stdlib.h>
+

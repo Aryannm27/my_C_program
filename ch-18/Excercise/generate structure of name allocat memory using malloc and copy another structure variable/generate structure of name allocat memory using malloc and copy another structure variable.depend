@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652171844 source:c:\hp\ch-18\excercise\generate structure of name allocat memory using malloc and copy another structure variable\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1652937539 source:c:\hp\ch-26\tcpserver_sent-receive\main.c
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdlib.h>
+	<stdio.h>
+
+1682336736 source:c:\users\hardik\desktop\c language\hardik_c\ch-26\tcpserver_sent-receive\main.c
+	<windows.h>
+	<winsock.h>
+	<ws2tcpip.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdio.h>
+

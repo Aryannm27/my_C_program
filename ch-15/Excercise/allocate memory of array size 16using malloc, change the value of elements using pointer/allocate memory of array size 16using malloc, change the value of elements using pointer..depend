@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651493824 source:c:\hp\ch-15\excercise\ allocate memory of array size 16using malloc, change the value of elements using pointer.\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1651560250 source:c:\hp\ch-15\excercise\ allocate memory of array size 16using malloc, change the value of elements using pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+

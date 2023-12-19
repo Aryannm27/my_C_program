@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650629676 source:c:\hp\ch-3\excercise\print the square of each one of the even form 1 to user definrd\main.c
+	<stdio.h>
+	<stdlib.h>
+

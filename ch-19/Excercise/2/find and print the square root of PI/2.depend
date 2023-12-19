@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652164951 source:c:\hp\ch-19\excercise\2\ find and print the square root of pi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651232982 source:c:\hp\ch-13\change the second element of array using pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+

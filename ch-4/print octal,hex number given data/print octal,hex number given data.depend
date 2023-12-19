@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650023469 source:c:\hp\ch-4\print octal,hex number given data\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651558149 source:c:\hp\ch-14\excercise\malloc and calloc\main.c
+	<stdio.h>
+	<stdlib.h>
+

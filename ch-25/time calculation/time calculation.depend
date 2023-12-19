@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652701537 source:c:\hp\ch-25\time calculation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

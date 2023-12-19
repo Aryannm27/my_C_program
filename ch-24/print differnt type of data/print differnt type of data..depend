@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652443339 source:c:\hp\ch-24\print differnt type of data.\main.c
+	<stdio.h>
+	<stdlib.h>
+

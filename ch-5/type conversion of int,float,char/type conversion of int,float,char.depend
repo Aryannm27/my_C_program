@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650022398 source:c:\hp\ch-5\type conversion of int,float,char\main.c
+	<stdio.h>
+	<stdlib.h>
+

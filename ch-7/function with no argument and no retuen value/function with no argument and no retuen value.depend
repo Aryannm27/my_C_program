@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650276259 source:c:\hp\ch-7\function with no argument and no retuen value\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650256958 source:c:\hp\ch-3\relational oprator\main.c
+	<stdio.h>
+	<stdbool.h>
+

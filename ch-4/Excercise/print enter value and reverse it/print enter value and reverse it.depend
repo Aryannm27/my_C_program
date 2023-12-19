@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651557119 source:c:\hp\ch-4\excercise\print enter value and reverse it\main.c
+	<stdio.h>
+	<stdlib.h>
+

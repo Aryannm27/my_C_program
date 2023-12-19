@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1650702814 source:c:\hp\ch-5\excercise\x=9999999999, print x.\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1650702814 source:c:\hp\ch-5\excercise\x=9999999999, print x\main.c
+	<stdio.h>
+	<stdlib.h>
+
